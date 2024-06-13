@@ -1,0 +1,4 @@
+Holding Time Type & Annual Returns (\%)& Sharpe Ratio & Max Drawdown (\%) & Volatility (\%)& 5\%VaR (\%)
+\begin{tabular}{cccccccccccccccccc}
+$1.0$ & $4.68$ & $4.18$ & $-30.18$ & $1.11$ & $-1.77$ & $2.0$ & $2.56$ & $2.47$ & $-24.56$ & $1.02$ & $-1.66$ & $3.0$ & $2.25$ & $2.1$ & $-29.29$ & $1.05$ & $-1.68$\\
+\end{tabular}

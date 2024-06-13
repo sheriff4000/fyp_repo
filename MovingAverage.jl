@@ -10,7 +10,7 @@ Will enable the user to specify the following parameters:
 module MovingAverage
 
 using AirBorne.Utils: sortedStructInsert!
-using AirBorne.Structures: ContextTypeA, TimeEvent, nextDay!
+using AirBorne.Structures: ContextTypeA, TimeEvent, nextDay!, summarizePerformance
 using AirBorne.Markets.StaticMarket: Order, place_order!
 using Dates: Day
 using DataFrames: DataFrame, groupby, combine, mean
